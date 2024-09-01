@@ -1,4 +1,6 @@
-👋 Hello! I’m [M. Mahad Siddiqui](https://github.com/M-Mahad-Siddiqui)
+<div align="center">
+  <h1>Hello! I’m <a href="https://github.com/Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
+</div>
 
 - 🌟 *Role*: Full-Stack Developer
 - 📍 *Location*: Karachi, Pakistan
