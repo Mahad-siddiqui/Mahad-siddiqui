@@ -6,7 +6,6 @@
 - 🌟 *Role*: Full-Stack Developer
 - 📍 *Location*: Karachi, Pakistan
 - 📧 *Contact*: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-- 🗓️ *Date of Birth*: 09/12/2003
 - 🇵🇰 *Nationality*: Pakistani
 - 🏳️ *Pronouns*: He/Him
 - 💼 *Marital Status*: Single
