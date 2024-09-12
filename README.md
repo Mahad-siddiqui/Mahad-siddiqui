@@ -76,7 +76,7 @@ Feel free to explore my repositories, and let’s connect if you have any exciti
 
 ## ❤ Followers:
 <div align= "center">
-<a href="https://github.com/Mahad-Siddiqui/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=Mahad Siddiqui"></a>
+<a href="https://github.com/Mahad-Siddiqui/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=Mahad-Siddiqui"></a>
 <a href="https://github.com/Mahad-Siddiqui?tab=followers"><img src="https://img.shields.io/github/followers/Mahad-Siddiqui?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
