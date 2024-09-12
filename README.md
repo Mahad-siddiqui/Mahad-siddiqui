@@ -11,6 +11,7 @@
 ## 💼 *Marital Status*: Single
 
 <div>
+   [https://techstack-generator.vercel.app/java-icon.svg](https://techstack-generator.vercel.app/java-icon.svg)
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" height="75" /><!--  Sass  -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
