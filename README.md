@@ -60,6 +60,7 @@ Feel free to explore my repositories, and let’s connect if you have any exciti
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahad-Siddiqui&bg_color=20222e&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/Mahad-Siddiqui/github-readme-activity-graph)
 
+<hr/>
 ### ➡️ Let's Connect:
 <div align="center">
 <a href = "https://linkedin.com/in/mahad31"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
