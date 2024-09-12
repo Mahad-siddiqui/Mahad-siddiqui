@@ -12,11 +12,16 @@
 
 <div>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" height="75" /><!--  Sass  -->
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>       
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>  
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" /><!--  Django -->
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="75" height="75" /> <!--   Swift-->
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="75" height="75" /> <!-- GraphQL -->
+  
 <div/>
 
 ### About Me
