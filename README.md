@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="75" height="75" /><!--  Django -->
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="75" height="75" /> <!--   Swift-->
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="75" height="75" /> <!-- GraphQL -->
-  Next.js <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="icon" width="75" height="75" />
+  <img src = "https://techstack-generator.vercel.app/docker-icon.svg" alt     = "icon" width = "75" height = "75" />
 <div/>
 
 ### About Me
