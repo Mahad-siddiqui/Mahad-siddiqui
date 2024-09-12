@@ -80,7 +80,7 @@ Feel free to explore my repositories, and let’s connect if you have any exciti
 <div>
 <p >
 <a href="https://github.com/Mahad-Siddiqui">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad-Siddiqui&theme=radical&border=7F3FBF&background=0D1117" alt="Zunain's Github streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahad-Siddiqui&theme=radical&border=7F3FBF&background=0D1117" alt="Mahad-Siddiqui's Github streak"/>
 </a>
         <a href="https://github.com/Mahad-Siddiqui"><img alt="Mahad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mahad-Siddiqui&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="35%"/>
         </a>
