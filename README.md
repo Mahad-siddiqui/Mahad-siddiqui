@@ -40,9 +40,9 @@ Feel free to explore my repositories, and let’s connect if you have any exciti
 
 ## ❤ Followers:
 <div align= "center">
-<a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Mahad-Siddiqui?tab=followers"><img src="https://img.shields.io/github/followers/Mahad-Siddiqui?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
----
+
 
 <!---
 M-Mahad-Siddiqui/M-Mahad-Siddiqui is a ✨ special ✨ repository showcasing my journey as a passionate developer. Your insights and connections are welcome!
