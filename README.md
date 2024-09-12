@@ -10,7 +10,7 @@
 ## 🏳️ *Pronouns*: He/Him
 ## 💼 *Marital Status*: Single
 
-<div align="center">
+<div>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
