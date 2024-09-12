@@ -10,6 +10,15 @@
 ## 🏳️ *Pronouns*: He/Him
 ## 💼 *Marital Status*: Single
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="75" height="75" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
+   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>       
+<div/>
+
 ### About Me
 I am a passionate and dedicated Full-Stack Developer currently pursuing a Bachelor’s degree in Computer Science (BSCS) at Dawood University. With a deep enthusiasm for coding and a knack for crafting innovative solutions, I specialize in various programming languages and technologies.
 
