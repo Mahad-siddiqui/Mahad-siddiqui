@@ -38,7 +38,10 @@ Feel free to explore my repositories, and let’s connect if you have any exciti
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahad-Siddiqui&bg_color=20222e&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/Mahad-Siddiqui/github-readme-activity-graph)
 
-
+## ❤ Followers:
+<div align= "center">
+<a href="https://github.com/MahamTahir31?tab=followers"><img src="https://img.shields.io/github/followers/MahamTahir31?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 ---
 
 <!---
