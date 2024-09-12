@@ -3,12 +3,12 @@
   <h1>Hello! I’m <a href="https://github.com/Mahad-Siddiqui">M. Mahad Siddiqui</a> 👋</h1>
 </div>
 
-- 🌟 *Role*: Full-Stack Developer
-- 📍 *Location*: Karachi, Pakistan
-- 📧 *Contact*: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
-- 🇵🇰 *Nationality*: Pakistani
-- 🏳️ *Pronouns*: He/Him
-- 💼 *Marital Status*: Single
+##- 🌟 *Role*: Full-Stack Developer
+##- 📍 *Location*: Karachi, Pakistan
+##- 📧 *Contact*: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
+##- 🇵🇰 *Nationality*: Pakistani
+##- 🏳️ *Pronouns*: He/Him
+##- 💼 *Marital Status*: Single
 
 ### About Me
 I am a passionate and dedicated Full-Stack Developer currently pursuing a Bachelor’s degree in Computer Science (BSCS) at Dawood University. With a deep enthusiasm for coding and a knack for crafting innovative solutions, I specialize in various programming languages and technologies.
