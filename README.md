@@ -22,6 +22,8 @@
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="75" height="75" /> <!--   Swift-->
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="75" height="75" /> <!-- GraphQL -->
   <img src = "https://techstack-generator.vercel.app/docker-icon.svg" alt     = "icon" width = "75" height = "75" />
+  <img src = "https://techstack-generator.vercel.app/kubernetes-icon.svg" alt = "icon" width = "75" height = "75" />
+
 <div/>
 
 ### About Me
