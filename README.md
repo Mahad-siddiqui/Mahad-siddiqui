@@ -35,9 +35,7 @@ My expertise spans across:
 
 Feel free to explore my repositories, and let’s connect if you have any exciting opportunities or projects!
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Mahad-Siddiqui/Mahad-Siddiqui/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/Mahad-Siddiqui/Mahad-Siddiqui/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://komarev.com/ghpvc/?username=Mahad-Siddiqui)
+
 
 ---
 
