@@ -36,7 +36,7 @@ My expertise spans across:
 Feel free to explore my repositories, and let’s connect if you have any exciting opportunities or projects!
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahamTahir31&bg_color=20222e&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahad-Siddiqui&bg_color=20222e&color=4e96ff&line=0083ff&point=ffffff&area=true&hide_border=true)](https://github.com/Mahad-Siddiqui/github-readme-activity-graph)
 
 
 ---
