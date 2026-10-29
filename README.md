@@ -8,7 +8,6 @@
 ## 📧 *Contact*: [mahadsiddiqui21@gmail.com](mailto:mahadsiddiqui21@gmail.com) | 📞 03190039560
 ## 🇵🇰 *Nationality*: Pakistani
 ## 🏳️ *Pronouns*: He/Him
-## 💼 *Marital Status*: Single
 
 <div>
    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon"width="75" height="75">
